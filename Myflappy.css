@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'pixels.ttf';
+    src:url('../fonts/pixels.ttf.ttf');
+}
+h1 {
+    text-align: center;
+    font-family: 'pixels.ttf';
+    color: rgb(219, 54, 54);
+}
+[my-flappy]{
+    position: relative;
+    border: 5px solid #000;
+    height: 600px;
+    width: 1515px;
+    background-color: skyblue;
+}
+
+.corpo{
+    background-color: #000;
+}
